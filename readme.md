@@ -1,10 +1,9 @@
-# 💼 HooBank - Modern Business Website Template
+# 💼 xbank - Modern Business Website Template
 
 A **modern, responsive business website** built with **React** and **Tailwind CSS**. Perfect for showcasing digital products and services with a sleek UI and a professional layout.
 
 > ⚠️ **Disclaimer**: This is a demo project. All names, content, and assets used in this template are fictional and are not associated with any real company. ⚠️
 
-📍 **Live Demo**: [Click here to view the demo](https://business-website-template.onrender.com/)
 
 ![HooBank Website Preview](https://user-images.githubusercontent.com/72783924/222011304-859783c2-3a38-47b6-9427-d323f01d0fba.png)
 
@@ -36,13 +35,8 @@ This project was built using the following tools:
 
 ---
 
-## 🖌️ Design Reference
 
-- 🎨 [Figma UI Design](https://www.figma.com/file/bUGIPys15E78w9bs1l4tgS/HooBank?node-id=310%3A485&t=Jkk7MU9hZJ5HoVph-0)
 
-## 📺 Tutorial Credits
-
-- 🎥 [JavaScript Mastery YouTube Tutorial](https://youtu.be/_oO4Qi5aVZs)
 
 ---
 
@@ -55,7 +49,7 @@ To run this project locally:
 git clone https://github.com/yourusername/hoobank-template.git
 
 # Navigate to the project folder
-cd hoobank-template
+cd xbank-template
 
 # Install dependencies
 npm install
